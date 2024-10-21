@@ -19,7 +19,7 @@ _(recall, Phase 1 was your solo task of adding the storage of the currently-logg
 
 ## Task 0: Fork this repo on GitHub
 **To get started, one team member should fork this repo on GitHub and share it with the team. 
-All of you should then clone it.** did
+All of you should then clone it.**
 
 * * *
 
@@ -100,25 +100,25 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 * * *
 
-- `LoggedInView.java` (tip: refer to the other views for similar code) Amal
+- `LoggedInView.java` (tip: refer to the other views for similar code)
 
   - [ ] TODO: save the logout controller in the instance variable.
   - [ ] TODO: execute the logout use case through the Controller
 
 * * *
 
-- `LogoutController.java` (tip: refer to the other controllers for similar code) Abeera
+- `LogoutController.java` (tip: refer to the other controllers for similar code)
 
   - [ ] TODO: Save the interactor in the instance variable.
   - [ ] TODO: run the use case interactor for the logout use case
 
 * * *
 
-- `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below) Shannon
+- `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below)
 
   - [ ] TODO: save the current username in an instance variable and add a getter.
 
-- `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code) Gaia
+- `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code)
 
   - [ ] TODO: save the DAO and Presenter in the instance variables.
   - [ ] TODO: implement the logic of the Logout Use Case
@@ -127,11 +127,11 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutOutputData.java`
 
-  - [ ] TODO: save the parameters in the instance variables. Shannon
+  - [ ] TODO: save the parameters in the instance variables.
 
 * * *
 
-- `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code) Max
+- `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code)
 
   - [ ] TODO: assign to the three instance variables.
   - [ ] TODO: have prepareSuccessView update the LoggedInState
