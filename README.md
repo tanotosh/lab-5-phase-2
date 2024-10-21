@@ -114,18 +114,18 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 * * *
 
-- `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below) Shannon
+- `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below) Gaia
 
   - [ ] TODO: save the current username in an instance variable and add a getter.
 
-- `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code) Gaia
+- `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code) Shannon
 
   - [ ] TODO: save the DAO and Presenter in the instance variables.
   - [ ] TODO: implement the logic of the Logout Use Case
 
 * * *
 
-- `LogoutOutputData.java` Shannon
+- `LogoutOutputData.java` Gaia
 
   - [ ] TODO: save the parameters in the instance variables.
 
